@@ -1,5 +1,5 @@
 /* Version : changer cette valeur à chaque mise à jour du contenu pour forcer le rafraîchissement du cache. */
-const V="annulatifs-v1";
+const V="annulatifs-v2";
 const CORE=[
 "./",
 "index.html",
