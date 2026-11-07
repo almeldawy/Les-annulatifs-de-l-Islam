@@ -1,0 +1,16 @@
+POLICES LOCALES (lecture hors connexion)
+
+Le site n'utilise plus Google Fonts. Déposez ici les fichiers suivants (licence libre SIL OFL) :
+
+  Amiri-Regular.woff2        Amiri-Bold.woff2          (police arabe)
+  SourceSerif4-Regular.woff2 SourceSerif4-Italic.woff2 SourceSerif4-SemiBold.woff2  (texte français)
+
+Les versions .ttf des mêmes noms fonctionnent aussi.
+
+Où les obtenir :
+  - Amiri : fonts.google.com/specimen/Amiri  (bouton « Get font » > « Download all »)
+  - Source Serif 4 : fonts.google.com/specimen/Source+Serif+4
+Renommez les fichiers téléchargés comme ci-dessus (Source Serif 4 est fourni en version variable : copiez-la sous les trois noms).
+
+Tant que les fichiers sont absents, le site utilise les polices installées sur l'appareil.
+Après avoir ajouté les polices, changez la valeur « V » dans sw.js (par ex. annulatifs-v2) pour mettre à jour le cache.
